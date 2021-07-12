@@ -8,7 +8,7 @@ Vist my **[Blog](https://montycode.dev)**
 
 [![Linkedin: Montycode](https://img.shields.io/badge/-MontyCode-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/montycode/)](https://www.linkedin.com/in/montycode/)
 [![GitHub Montycode](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)](https://github.com/montycode)
-![Twitter Follow](https://img.shields.io/twitter/follow/monty_code?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/monty_code?style=social)](https://twitter.com/monty_code)
 
 ---
 
@@ -22,7 +22,7 @@ Vist my **[Blog](https://montycode.dev)**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montycode&layout=compact&theme=dark&hide_border=true)
 
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=montycode&show_icons=true&hide_border=true&theme=dark)
+![MontyCode's github stats](https://github-readme-stats.vercel.app/api?username=montycode&show_icons=true&hide_border=true&theme=dark)
 
 
 <!--
