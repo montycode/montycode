@@ -4,7 +4,7 @@
 
 My name is **Omar Montoya**. I am a Software Development Rngineer. I love to create, optimize and deploy web applications focusing on the user experience through friendly and functional interfaces. Working as **Software Engineer @ Definity First**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, Angular, Ionic, NodeJS, MongoDB, Mean Stack, RESTfull API’s and User Experience.**
 
-Vist my **[Blog](https://montycode.dev)
+Vist my **[Blog](https://montycode.dev)**
 
 [![Linkedin: Montycode](https://img.shields.io/badge/-MontyCode-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/montycode/)](https://www.linkedin.com/in/montycode/)
 [![GitHub Montycode](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)](https://github.com/gkhan205)
