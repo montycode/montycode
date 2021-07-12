@@ -6,8 +6,6 @@ My name is **Omar Montoya**. I am a Software Development Rngineer. I love to cre
 
 Vist my **[Blog](https://montycode.dev)
 
-Author of NPM Package: **[Formify React](https://www.npmjs.com/package/formify-react)**, **[CWG React Starter](https://github.com/gkhan205/cwg-react-starter)** & **[Slugifyme](https://www.npmjs.com/package/slugifyme)**
-
 [![Linkedin: Montycode](https://img.shields.io/badge/-MontyCode-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/montycode/)](https://www.linkedin.com/in/montycode/)
 [![GitHub Montycode](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)](https://github.com/gkhan205)
 ![Twitter Follow](https://img.shields.io/twitter/follow/monty_code?style=social)
