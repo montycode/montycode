@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/montycode/montycode/blob/master/images/cover.png)
+![Banner Image](https://github.com/montycode/montycode/blob/main/images/cover.png)
 
 ## Hello there 👋
 
