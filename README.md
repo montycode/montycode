@@ -5,9 +5,9 @@ My name is **Omar Montoya**. I am a Software Development Engineer. I love to cre
 Vist my **[Blog](https://montycode.dev)**
 
 ## Skills
-[![Skills](https://skillicons.dev/icons?i=js,nodejs,react,nextjs,ts,express,tailwind,vite,angular,graphql&perline=6)](https://github.com/montycode)
+[![Skills](https://skillicons.dev/icons?i=js,nodejs,react,nextjs,ts,express,tailwind,vite,angular,graphql&perline=5)](https://github.com/montycode)
 ## Other skills
-[![Other Skills](https://skillicons.dev/icons?i=aws,azure,cypress,docker,jenkins,jest,materialui,mongodb,postgres,redux&perline=6)](https://github.com/montycode)
+[![Other Skills](https://skillicons.dev/icons?i=aws,azure,cypress,docker,jenkins,jest,materialui,mongodb,postgres,redux&perline=5)](https://github.com/montycode)
 ## Tools
 [![Tools](https://skillicons.dev/icons?i=discord,firebase,github,postman,vscode,figma&perline=6)](https://github.com/montycode)
 
