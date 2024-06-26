@@ -5,13 +5,15 @@ My name is **Omar Montoya**. I am a Software Development Engineer. I love to cre
 Vist my **[Blog](https://montycode.dev)**
 
 ## Skills
-[![Skills](https://skillicons.dev/icons?i=js,nodejs,react,nextjs,ts,express,tailwind,vite,vue,angular,graphql&perline=6)](https://github.com/montycode)
+[![Skills](https://skillicons.dev/icons?i=js,nodejs,react,nextjs,ts,express,tailwind,vite,angular,graphql&perline=6)](https://github.com/montycode)
 ## Other skills
-[![Other Skills](https://skillicons.dev/icons?i=aws,azure,cypress,docker,jenkins,jest,materialui,mongodb,postgres,redux,sequelize&perline=6)](https://github.com/montycode)
+[![Other Skills](https://skillicons.dev/icons?i=aws,azure,cypress,docker,jenkins,jest,materialui,mongodb,postgres,redux&perline=6)](https://github.com/montycode)
 ## Tools
-[![Tools](https://skillicons.dev/icons?i=discord,firebase,github,postman,vscode,vscode,figma&perline=6)](https://github.com/montycode)
+[![Tools](https://skillicons.dev/icons?i=discord,firebase,github,postman,vscode,figma&perline=6)](https://github.com/montycode)
 
+## Lets connect!
 [![Linkedin: Montycode](https://skillicons.dev/icons?i=linkedin)]([https://github.com/montycode](https://www.linkedin.com/in/montycode/))
+
 [![GitHub Montycode](https://img.shields.io/github/followers/montycode?label=follow&style=social)](https://github.com/montycode)
 [![Twitter Follow](https://img.shields.io/twitter/follow/monty_code?style=social)](https://twitter.com/monty_code)
 
